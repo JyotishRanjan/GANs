@@ -1,0 +1,2 @@
+# GANs
+DCGAN, CGAN, WGAN
